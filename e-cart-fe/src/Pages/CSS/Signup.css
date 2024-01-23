@@ -1,0 +1,56 @@
+.continer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin :auto;
+    background-color: bisque;
+    height: 100vh;
+}
+
+.fullName{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.email{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.password{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.confirmPassword{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.submit{
+    border-radius: 10px;
+    padding: 10px;
+    background-color: blue;
+}
+
+.label-name{
+    margin-top: 30px;
+}
+
+.name-error{
+    color: red;
+}
+
+.email-error{
+    color: red;
+}
+
+.password-error{
+    color: red;
+}
+
+.confirmpassword-error{
+    color: red;
+}
+
+

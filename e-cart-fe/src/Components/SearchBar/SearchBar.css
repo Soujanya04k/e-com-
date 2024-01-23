@@ -1,0 +1,29 @@
+.template-contain{
+    display:grid;
+    grid-template-columns:repeat(4,1fr) ;
+    row-gap:80px;
+}
+
+.template{
+    display:grid;
+    grid-template-columns: 1fr 1fr  ;
+    row-gap:30px;
+    gap:20px;
+    margin-left: 50px;
+}
+
+.template img{
+    height: 300px;
+    width:300px;
+}
+.searchinput input{
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 2px;
+    border-color: black;
+    
+}
+
+.searchinputtag{
+    margin-top: 20px;
+}

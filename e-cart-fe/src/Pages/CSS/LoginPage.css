@@ -1,0 +1,48 @@
+.container{
+    display :flex ;
+    justify-content: center;
+    align-items: center;
+    background-color:beige;
+    height: 100vh;
+}
+
+.in-container{
+    margin: auto;
+    border-radius: 10px;
+    border-width: 10px;
+    display: block;
+}
+
+.header{
+    color: blue;
+    font-weight: bold;
+    padding-left: 35px;
+    padding-bottom: 15px;
+}
+
+.name-input{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.email{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.password{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.confirm-password{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.submit{
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 40px;
+    background-color: blue;
+}
